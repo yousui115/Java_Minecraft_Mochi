@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yousui115.mochi",
+  "name": "Mochi",
+  "description": "Mochi Mochi.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yousui115"],
+  "credits": ":-)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

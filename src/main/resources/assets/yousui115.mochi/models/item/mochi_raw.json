@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "yousui115.mochi:items/mochi_raw"
+    }
+}
